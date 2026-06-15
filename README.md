@@ -1,5 +1,5 @@
 # IS-24
 
-https://github.com/ninkonovickaa/IS-24
+Задание на практику 
 
-# макет Cakes сдать 30.04
+https://www.figma.com/file/yazf9gzkw52mCJNNxAGqS0/gifts-%26-merch?node-id=0%3A1
